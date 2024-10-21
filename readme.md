@@ -14,6 +14,9 @@ This guide explains the process of creating an AWS EMR cluster, submitting Apach
 
 ![Architecture Diagram](Architecture.png)
 
+**Airflow DAG**
+![Architecture Diagram](/data/img.png)
+
 **Steps**
 
 **1. Create an AWS EMR Cluster**
